@@ -1,0 +1,12 @@
+preinstalations:
+
+Programs:
+python 3.8
+
+Modules:
+discogs-client
+Pandas
+openpyxl
+
+Excel:
+vérifier que les macros sont activées
